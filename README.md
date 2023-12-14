@@ -4,7 +4,7 @@ Sign2Text is a deep neural network based on CNNClassifier algorithm which can re
 
 ## Accuracy
 
-The model has an accuracy close to 95% (approximately 93.654%) in recognizing all the signs mentioned
+The model has an accuracy close to 94% (approximately 93.12%) in recognizing all the signs mentioned
 
 ## Datasets Used
 

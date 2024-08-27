@@ -6,12 +6,6 @@ Sign2Text is a deep neural network based on CNNClassifier algorithm which can re
 
 The model has an accuracy close to 94% (approximately 93.12%) in recognizing all the signs mentioned
 
-## Datasets Used
-
-https://www.kaggle.com/datasets/prathumarikeri/american-sign-language-09az
-
-https://www.kaggle.com/datasets/grassknoted/asl-alphabet
-
 ## Extra
 
 I have also included a notebook on how to make model access the camera. The model file is available in both Legacy .h5 formal as well as the modern .keras format
